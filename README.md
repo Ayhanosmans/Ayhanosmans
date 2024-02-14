@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ayhanosmans
-- 👀 I’m interested in Video Games
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Razer
+- 👀 I’m interested in Web Programming
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me mail
 
 <!---
